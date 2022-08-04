@@ -2,7 +2,7 @@
 name: Bug report for <<version>> of <<softwareName>>
 about: Template for new bug reports
 title: "[Software name]: <<bug title>>"
-labels: ''
+labels: 'draft, bug, from-template'
 assignees: ''
 
 ---
@@ -33,6 +33,7 @@ assignees: ''
 **Device model:** 
 
 **Severity:** 
+**Urgency:** 
  
 **Link to this bug in my [personal library](http://library.jimgrisham.com/Special:PrefixIndex/Bug_reports/):** [http://library.jimgrisham.com/Bug_reports/Unfiled/(vendor_name)/(date)_(bug_title)]
  </details>

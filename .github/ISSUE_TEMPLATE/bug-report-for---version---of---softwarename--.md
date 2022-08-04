@@ -1,13 +1,14 @@
 ---
 name: Bug report for <<version>> of <<softwareName>>
 about: Template for new bug reports
-title: "[BUG] (<<version>> of <<softwareName>>): <<bug title>>"
+title: "[Software name]: <<bug title>>"
 labels: ''
 assignees: ''
 
 ---
 
 ## Metadata
+<details><summary style="font-style: italic;"><em>(click to open/close)</em></summary>
  
 ### Status
 **Bug officially submitted?:** No
@@ -34,6 +35,7 @@ assignees: ''
 **Severity:** 
  
 **Link to this bug in my [personal library](http://library.jimgrisham.com/Special:PrefixIndex/Bug_reports/):** [http://library.jimgrisham.com/Bug_reports/Unfiled/(vendor_name)/(date)_(bug_title)]
+ </details>
  
 ## Bug report contents
 
@@ -77,12 +79,15 @@ _Add any other context about the problem here._
 
 ## Links and references
 _(relating to the bug discussed above)_
+<details><summary style="font-style: italic;"><em>(click to open/close)</em></summary>
 
 ### Official references
 
 ### Forum and mailing list discussions
 
 ### Social media posts
+
+</details>
 
 ## Other comments
 _(Commentary and anything else that doesn't fit into one of the above sections.)_

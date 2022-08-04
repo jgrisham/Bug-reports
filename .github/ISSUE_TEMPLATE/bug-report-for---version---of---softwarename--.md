@@ -8,31 +8,31 @@ assignees: ''
 ---
 
 ## Metadata
-### Status
- - **Bug officially submitted?:** No
- - **Bug ID:** 
- - **URL to official bug report:** 
- - **Related official bug IDs:** 
  
- - **Fixed _(date & release number)_:**
- - **Regression on _(e.g. the bug came back!)_:**
+### Status
+**Bug officially submitted?:** No
+**Bug ID:** 
+**URL to official bug report:** 
+**Related official bug IDs:** 
+ 
+**Fixed _(date & release number)_:**
+**Regression on _(e.g. the bug came back!)_:**
 
 ### Applicability
- - **Software, app, or service name:** 
- - **Software or publisher website:** 
- - **Software or app version:**
+**Software, app, or service name:** 
+**Software or publisher website:** 
+**Software or app version:**
 
- - **Operating system name:**
- - **Operating system version:**
+**Operating system name:**
+**Operating system version:**
 
- - **Device type:**
- - **Device model:**
+**Device type:**
+**Device model:**
 
- - **Severity:**
+**Severity:**
  
-**Link to this bug in my [personal library](http://library.jimgrisham.com/Special:PrefixIndex/Bug_reports/):**
- - [http://library.jimgrisham.com/Bug_reports/Unfiled/(vendor_name)/(date)_(bug_title)]
-
+**Link to this bug in my [personal library](http://library.jimgrisham.com/Special:PrefixIndex/Bug_reports/):** [http://library.jimgrisham.com/Bug_reports/Unfiled/(vendor_name)/(date)_(bug_title)]
+ 
 ## Bug report contents
 
 ### One-line summary
@@ -40,11 +40,9 @@ assignees: ''
 ### Details
 
 **Describe the bug**
- 
 _A clear and concise description of what the bug is._
 
 **To Reproduce**
- 
 _Steps to reproduce the behavior:_
 1. Go to '...'
 2. Click on '....'

@@ -92,3 +92,22 @@ _(relating to the bug discussed above)_
 ## Other comments
 _(Commentary and anything else that doesn't fit into one of the above sections.)_
 
+
+<!-- END OF BUG REPORT FILE -->
+
+<!-- PLEASE DO NOT MODIFY ANYTHING BELOW THIS POINT
+     ----------------------------------------------
+
+## References
+If you have questions, ...
+
+### GitHub templates
+ - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
+
+### YAML
+ - 
+
+### Markdown
+ - 
+
+-->

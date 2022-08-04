@@ -1,12 +1,32 @@
 ---
-name: Bug report for <<version>> of <<softwareName>>
+name: 🐞 Bug report for <<version>> of <<softwareName>>
 about: Template for new bug reports
 title: "[Software name]: <<bug title>>"
 labels: 'draft, bug, from-template'
 assignees: ''
 
 ---
+<!--
+---
+name: 🐞 Bug
+about: File a bug/issue
+title: '[BUG] <title>'
+labels: Bug, Needs Triage
+assignees: ''
 
+---
+-->
+
+<!--
+Note: Please search to see if an issue already exists for the bug you encountered.
+-->
+
+### Current Behavior:
+
+
+
+ 
+ 
 ## Metadata
 <details><summary style="font-style: italic;"><em>(click to open/close)</em></summary>
  
@@ -41,43 +61,48 @@ assignees: ''
 ## Bug report contents
 
 ### One-line summary
-
+ 
 ### Details
 
-**Describe the bug**
+#### **Describe the bug**
 _A clear and concise description of what the bug is._
 
-**To Reproduce**
+#### **To Reproduce**
 _Steps to reproduce the behavior:_
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+#### **Expected behavior**
 _A clear and concise description of what you expected to happen._
 
-**Actual behavior**
+#### **Actual behavior**
+<!-- A concise description of what you're experiencing. -->
 _What actually happened, and how was it different from the above?_
 
-**Screenshots**
+#### **Screenshots**
 _If applicable, add screenshots to help explain your problem._
 
 ### Applicability _(details)_
 <details open><summary style="font-style: italic;"><em>(click to open/close)</em></summary>
 
-**Desktop _(please complete the following information)_:**
+#### **Desktop _(please complete the following information)_:**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone _(please complete the following information)_:**
+#### **Smartphone _(please complete the following information)_:**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
+#### **Additional context**
+<!--
+Links? References? Anything that will give us more context about the issue that you are encountering!
+-->
+ 
 _Add any other context about the problem here._
 
 </details>

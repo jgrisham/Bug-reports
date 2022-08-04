@@ -65,12 +65,12 @@ _If applicable, add screenshots to help explain your problem._
 ### Applicability _(details)_
 <details open><summary style="font-style: italic;"><em>(click to open/close)</em></summary>
 
-**Desktop (please complete the following information):**
+**Desktop _(please complete the following information)_:**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
+**Smartphone _(please complete the following information)_:**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]

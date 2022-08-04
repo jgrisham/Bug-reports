@@ -63,6 +63,8 @@ _What actually happened, and how was it different from the above?_
 _If applicable, add screenshots to help explain your problem._
 
 ### Applicability _(details)_
+<details open><summary style="font-style: italic;"><em>(click to open/close)</em></summary>
+
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
@@ -76,6 +78,8 @@ _If applicable, add screenshots to help explain your problem._
 
 **Additional context**
 _Add any other context about the problem here._
+
+</details>
 
 ## Links and references
 _(relating to the bug discussed above)_

@@ -9,26 +9,29 @@ assignees: ''
 
 ## Metadata
 ### Status
-**Bug officially submitted?:** No
-**Bug ID:** 
-**URL to official bug report:** 
-**Related official bug IDs:** 
-
-**Fixed _(date & release number)_:**
-**Regression on _(e.g. the bug came back!)_:**
+ - **Bug officially submitted?:** No
+ - **Bug ID:** 
+ - **URL to official bug report:** 
+ - **Related official bug IDs:** 
+ 
+ - **Fixed _(date & release number)_:**
+ - **Regression on _(e.g. the bug came back!)_:**
 
 ### Applicability
-**Software, app, or service name:** 
-**Software or publisher website:** 
-**Software or app version:**
+ - **Software, app, or service name:** 
+ - **Software or publisher website:** 
+ - **Software or app version:**
 
-**Operating system name:**
-**Operating system version:**
+ - **Operating system name:**
+ - **Operating system version:**
 
-**Device type:**
-**Device model:**
+ - **Device type:**
+ - **Device model:**
 
-**Severity:**
+ - **Severity:**
+ 
+**Link to this bug in my [personal library](http://library.jimgrisham.com/Special:PrefixIndex/Bug_reports/):**
+ - [http://library.jimgrisham.com/Bug_reports/Unfiled/(vendor_name)/(date)_(bug_title)]
 
 ## Bug report contents
 
@@ -37,10 +40,12 @@ assignees: ''
 ### Details
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+ 
+_A clear and concise description of what the bug is._
 
 **To Reproduce**
-Steps to reproduce the behavior:
+ 
+_Steps to reproduce the behavior:_
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -68,7 +73,7 @@ _If applicable, add screenshots to help explain your problem._
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+_Add any other context about the problem here._
 
 ## Links and references
 _(relating to the bug discussed above)_
@@ -80,3 +85,5 @@ _(relating to the bug discussed above)_
 ### Social media posts
 
 ## Other comments
+_(Commentary and anything else that doesn't fit into one of the above sections.)_
+

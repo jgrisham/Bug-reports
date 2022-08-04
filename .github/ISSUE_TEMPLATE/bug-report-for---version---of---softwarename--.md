@@ -97,12 +97,27 @@ _(Commentary and anything else that doesn't fit into one of the above sections.)
 
 <!-- PLEASE DO NOT MODIFY ANYTHING BELOW THIS POINT
      ----------------------------------------------
+## Notes
+ - Header table is YAML
+ - Body will be rendered in Markdown
 
 ## References
 If you have questions, ...
 
 ### GitHub templates
+ - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests
  - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
+ - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+
+Legacy format:
+ - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/manually-creating-a-single-issue-template-for-your-repository
+
+Community health:
+ - https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
+
+Related; for pull requests:
+ - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
+ - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/using-query-parameters-to-create-a-pull-request
 
 ### YAML
  - 
